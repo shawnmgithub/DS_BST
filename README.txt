@@ -1,0 +1,1 @@
+this program will construct a balanced bst from a given array. To find the Kth smallest term input a k value inbetween 1 and 15. The program will output a preorder traversal of the tree along with the kth minimum term.
